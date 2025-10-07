@@ -10,7 +10,7 @@
   Glory to God, Lainey Lanore
 </p>
 </body>
-
+<h3>Here are this weeks Bible verses!I hope these help you throughout the week! </h3>
 
 
 
