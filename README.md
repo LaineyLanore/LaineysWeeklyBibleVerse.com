@@ -1,8 +1,7 @@
 <html>
 <header> 
   LaineysWeeklyBibleVerse.com
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://yourname.github.io/my-site/style.css">
 
 </header>
 <body>
