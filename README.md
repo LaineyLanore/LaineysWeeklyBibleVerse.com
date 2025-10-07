@@ -1,5 +1,10 @@
 <html>
-<header> LaineysWeeklyBibleVerse.com</header>
+<header> 
+  LaineysWeeklyBibleVerse.com
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+</header>
 <body>
 <p> 
   <h1>Hello everyone!</h1>
