@@ -1,6 +1,6 @@
 <html>
 <header> 
-  LaineysWeeklyBibleVerse.com
+  
 <link rel="stylesheet" href="https://yourname.github.io/my-site/style.css">
 
 </header>
