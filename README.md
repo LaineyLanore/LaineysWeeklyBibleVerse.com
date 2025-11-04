@@ -2,7 +2,8 @@
 <header> 
   
 <link rel="stylesheet" href="https://yourname.github.io/my-site/style.css">
-
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 </header>
 <body>
 <p> 
